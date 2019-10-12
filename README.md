@@ -1,3 +1,5 @@
+![Einstein](morphs/einstein_morph_removed0.jpg)![Einstein](morphs/einstein_morph_removed2.jpg)![Einstein](morphs/einstein_morph_removed3.jpg)![Einstein](morphs/einstein_morph_removed4.jpg)![Einstein](morphs/einstein_morph_removed5.jpg)
+
 # View Morphing
 Final group project for the course TEK5030, spring of 2019.
 
@@ -22,3 +24,5 @@ More details may be found in the [project report](https://github.com/ingridut/Vi
 
 #### Einstein view morph
 ![Einstein](morphs/einstein_morph_removed0.jpg)![Einstein](morphs/einstein_morph_removed2.jpg)![Einstein](morphs/einstein_morph_removed3.jpg)![Einstein](morphs/einstein_morph_removed4.jpg)![Einstein](morphs/einstein_morph_removed5.jpg)
+
+Left image is the original. Rightmost image is the original mirrored. The images inbetween were created using the view morph algorithm. 
