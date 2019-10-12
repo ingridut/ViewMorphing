@@ -19,3 +19,6 @@ More details may be found in the [project report](https://github.com/ingridut/Vi
 ## Examples
 #### Straight morph (no view morphing)
 ![Trump Bear](morphs/trump_bear.gif)
+
+#### Einstein view morph
+![Einstein](morphs/einstein_morph_removed0.jpg)![Einstein](morphs/einstein_morph_removed2.jpg)![Einstein](morphs/einstein_morph_removed3.jpg)![Einstein](morphs/einstein_morph_removed4.jpg)![Einstein](morphs/einstein_morph_removed5.jpg)
